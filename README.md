@@ -14,5 +14,5 @@
 
 6. To run the Flask app execute "flask run" on Terminal
 
-## Working with FLASK_APP
+## Working with Flask
 You can follow common Flask conventions by looking at the Flask documentation, quickstart guide, project structure, and tutorial, all found here: https://flask.palletsprojects.com/en/1.0.x/
